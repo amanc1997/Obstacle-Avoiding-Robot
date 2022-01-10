@@ -1,1 +1,9 @@
-# Obstacle-Avoiding-Robot-
+# Obstacle Avoiding Robot
+
+Robots are machines which reduce the human efforts in heavy works by automating the tasks in industries, factories, hospitals etc. Most of the robots are run by using some control unit or components like a push button, remote, joystick, PC, gestures and by executing some command by using controller or processor. But today we are here with a Automatic Robot which moves autonomously without any external events avoiding all the obstacle in its path, yes we talking about Obstacle Avoiding Robot. In this project, we have used Raspberry Pi and Motor driver to drive the robot and Ultrasonic sensor for detecting objects in the path of Robot.
+
+
+<img width="619" alt="Screenshot 2022-01-10 at 3 02 13 AM" src="https://user-images.githubusercontent.com/37493439/148734254-47145fbc-9e64-4a15-a2ac-a34cb05a0243.png">
+
+
+The basic idea behind the project is to develop a basic prototype of a robot which can detect and avoid obstacles using an ultrasonic sensor. The ultrasonic sensor mounted on the robot chassis will sense the obstruction and send the signal to raspberry pi. Next, the raspberry pi instructs the IC which acts as the motor controller. This technology can be used for guidance systems for the blind and in self driving cars. The main motto of designing such type of Robot or the technology is that this technology can be used in today’s very fast transportation to avoid the accident generally happen in congested or the Metro Politian Areas by applying emergency break. If we use this technology in the car or any vehicle, it will automatically sense the obstacles then it will take a side to the available free space. An obstacle may be a living things or any object. Autonomous Intelligent Robots are robots that can perform desired tasks in unstructured environments without continuous human guidance. Thus by using this technology in vehicles we make the drive safe.
